@@ -390,7 +390,8 @@ Upload to GitHub Pages for free hosting.
 ```
 
 ## OUTPUT
-<img width="1904" height="930" alt="image" src="https://github.com/user-attachments/assets/922db514-f631-4c89-bf6f-0ae160c4ec63" />
+
+<img width="1900" height="948" alt="image" src="https://github.com/user-attachments/assets/21222b0f-fbbe-43f2-844d-2ea82bd00ffc" />
 
 
 ## RESULT
